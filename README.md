@@ -25,7 +25,7 @@ A smart keyboard application with AI-powered next-word prediction using TensorFl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Aman051103/smart-Keyboard-PlugIn
+git clone https://github.com/Aman051103/smart-Keyboard-PlugIn.git
 cd smart-keyboard-PlugIn
 ```
 
