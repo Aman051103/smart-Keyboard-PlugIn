@@ -2,8 +2,6 @@
 
 A smart keyboard application with AI-powered next-word prediction using TensorFlow/Keras. The application features a GUI built with tkinter that provides word recommendations as you type.
 
-**Repository:** https://github.com/Aman051103/smart-Keyboard-PlugIn
-
 ## Features
 
 - **Next-word prediction**: AI-powered suggestions based on your typing context
